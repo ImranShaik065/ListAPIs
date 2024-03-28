@@ -24,8 +24,6 @@
   }, {
     "url" : "https://sandbox-api.example.com:8443/v1"
   }, {
-    "url" : "http://netbanking.apisec.ai"
-  }, {
     "url" : "http://qa-netbanking.apisec.ai:8080"
   } ],
   "tags" : [ {
